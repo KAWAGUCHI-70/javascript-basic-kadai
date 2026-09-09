@@ -2,8 +2,8 @@
 let bmi;
 
 //定数宣言
-const height = 1.67;
-const weight = 57;
+const height = 1.7;
+const weight = 68;
 
 //bmiを計算する
 bmi = weight / (height * height);
